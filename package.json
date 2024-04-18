@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kamillemag/node-intro/issues"
   },
-  "homepage": "https://github.com/kamillemag/node-intro#readme"
+  "homepage": "https://github.com/kamillemag/node-intro#readme",
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
 }
